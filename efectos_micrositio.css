@@ -1,0 +1,51 @@
+b
+{
+	color:#D1D1D1;
+	font-size:15pt;
+	font-weight:bold;
+	font-family:arial;
+}
+
+.encabezado{
+	background:#FF5733;
+	color:white;
+	width:20%;
+	font-family:arial;
+	border-radius:15px;
+}
+
+.boton_celulares{
+	background:#103772;
+	color:white;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+}
+.boton_celulares:hover{
+	background:#25549A;
+	color:#103772;
+}
+
+.boton_laptop{
+	background:#FF2020;
+	color:white;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+}
+.boton_laptop:hover{
+	background:white;
+	color:#FF2020;
+}
+
+.boton_tablets{
+	background:#FFD020;
+	color:white;
+	font-size:16pt;
+	width:150px;
+	border-radius:10px;
+}
+.boton_tablets:hover{
+	background:white;
+	color:#FFD020;
+}
